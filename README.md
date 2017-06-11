@@ -1,5 +1,5 @@
 # HackerRank
 
 All HackerRank work of mine
-SOme changes!
+SOme chang
 Custom bitches!
